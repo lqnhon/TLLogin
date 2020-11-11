@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLLogin", "TLLogin\TLLogin.csproj", "{3F3B276C-FFA0-48E1-B472-A65A65322ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3B276C-FFA0-48E1-B472-A65A65322ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B276C-FFA0-48E1-B472-A65A65322ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B276C-FFA0-48E1-B472-A65A65322ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B276C-FFA0-48E1-B472-A65A65322ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {628A03C1-3746-4470-B061-8B1CE441CC87}
+	EndGlobalSection
+EndGlobal
